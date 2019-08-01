@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "NSArray+MASShorthandAdditions.h"
 #import "UIColor+EEE.h"
 
 FOUNDATION_EXPORT double TestLibVersionNumber;
