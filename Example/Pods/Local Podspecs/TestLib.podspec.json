@@ -1,0 +1,22 @@
+{
+  "name": "TestLib",
+  "version": "0.1.0",
+  "summary": "aadfsdfdsfsdf",
+  "description": "dfsfsfsdafdsfasdfsfsd",
+  "homepage": "https://github.com/GuangPengLiu/TestLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jxdlgp@163.com": "liuguangpeng@inspur.com"
+  },
+  "source": {
+    "git": "https://github.com/GuangPengLiu/TestLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestLib/Classes/**/*"
+}
